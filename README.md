@@ -39,7 +39,3 @@ O arquivo CSS fornece estilos e formatação para tornar o blog visualmente atra
 1. Abra o arquivo `index.html` em seu navegador da web preferido.
 2. Navegue pelo blog utilizando a barra de navegação e a barra lateral para acessar diferentes seções.
 3. Leia as postagens disponíveis e explore as opções de busca, categorias e tags para descobrir mais conteúdo.
-
-Desfrute da experiência de explorar e descobrir novos conteúdos no Blog Semântico!
-
-🔍 Boa leitura! 🔍
